@@ -48,4 +48,4 @@ Adjusting the number of epochs
 Using X_train_scaled in model instead of X_train Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 The initial deep learning model without any optimizations had an accuracy of about 73.04%
 
-#After making the adjustments noted above, the optimized deep learning model had an accuracy of about 78.71%
+
